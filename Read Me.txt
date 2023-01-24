@@ -1,0 +1,4 @@
+1. Salin file bms.sql ke aplikasi xampp / C:\xampp\htdocs
+2. Buka netbeans 
+3. Buka file project ini
+4. Run file pada Splashscreen.java
